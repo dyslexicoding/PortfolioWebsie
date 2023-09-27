@@ -1,7 +1,7 @@
 import React from 'react'
 import './skills.css'
 import DataScience from '../../assets/data-science.png'
-import SoftewareEngineering from '../../assets/SoftwareEng.png'
+import SoftwareEngineering from '../../assets/SoftwareEng.png'
 import ElectronicEngineering from '../../assets/electronic.jpg'
 
 const Skills = () => {
@@ -20,9 +20,9 @@ const Skills = () => {
           </div>
 
           <div className="SkillBar">
-            <img src={SoftewareEngineering} alt="Softeware Engineering" className="SkillBarImage" />
+            <img src={SoftwareEngineering} alt="Software Engineering" className="SkillBarImage" />
             <div className="SkillBarText">
-              <h2>Softeware Engineering</h2>
+              <h2>Software Engineering</h2>
               <p>Software engineering is the use of engineering principles to design, develop, test, and maintain computer software.</p>
             </div>
           </div>
