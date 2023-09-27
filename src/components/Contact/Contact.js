@@ -2,6 +2,10 @@ import React from 'react'
 import './Contact.css'
 import FirstBahrain from '../../assets/First Bahrain.png'
 import BirthWell from '../../assets/Birthwell.png'
+import Linkedin from '../../assets/linkedin.png'
+import Github from '../../assets/github.png'
+import Twitter from '../../assets/twitter.png'
+
 
 
 const Contact = () => {
@@ -21,7 +25,24 @@ const Contact = () => {
         </div>
       </div>
       <div id="Contact">
-      
+        <h1 className="ContactPageTitle">Contact Me</h1>
+        <span className="ContactDesc">Please fill out the form belo to discuss any work opportunities.</span>
+        <form className="ContactForm">
+          <input type="text" className="Name"  placeholder='Your Name'/>
+          <input type="email" className="Email" placeholder='Your Email'/>
+          <textarea className="Message" rows='5' placeholder='Your Message'></textarea>
+          <button type='submit' value='send' className="SubmitBtn">Submit</button>
+
+          <div className="links">
+
+            <img src={Linkedin} alt="Linkedin" className="links" />
+            <img src={Github} alt="Github" className="links" />
+            <img src={Twitter} alt="Twitter" className="links" />
+            
+          </div>
+
+
+        </form>
       </div>
     </section>
     
