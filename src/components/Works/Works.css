@@ -1,0 +1,53 @@
+#Works {
+    overflow: hidden;
+    min-height: calc(100vh - 4rem);
+    max-width: 70rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.WorksTitle {
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+
+.WorksDesc {
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.WorksImages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    max-width: 70rem;
+}
+
+.WorksImg {
+    height: 20rem;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    
+}
+
+.Captions {
+    position: relative;
+    bottom: 0.5rem;
+    /* margin: 2rem 2rem; */
+    color: white;
+    font-size: 1rem;
+    padding: 0.1rem;
+}
+
+.WorksBtn{
+    margin: 3rem 0;
+    padding: 0.5rem 2.5rem;
+    
+}
