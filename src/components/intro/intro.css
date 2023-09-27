@@ -1,7 +1,8 @@
 #intro {
     height:calc(100vh - 4rem);
     width: 100vw;
-    max-width: 75rem;
+    max-width: 80rem;
+    /* max-width: 75%; */
     margin: 0 auto;
     overflow: hidden;
     position: relative;
@@ -58,6 +59,7 @@
 }
 
 @media screen and (max-width:840px) {
+    
     .bg {
         right: -5vw
     }
