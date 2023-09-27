@@ -15,10 +15,11 @@ const Works = () => {
         <span className="WorksDesc">I Work hard with each project I worked on</span>
         <div className="WorksImages">
             <a  href='https://github.com/dyslexicoding/Masters-Thesis'>
-                <img src={Thesis} alt="" className="WorksImg" />
+                <img src={Thesis} alt="" className="WorksImg" /> 
                 <figcaption className='Captions'>
                         Thesis
                 </figcaption>
+               
             </a>
             <a href='https://github.com/dyslexicoding/Rubiks-Cube-Project'>                
                 <img src={rubiks} alt="" className="WorksImg" />
@@ -55,7 +56,7 @@ const Works = () => {
 
         </div>
         {/* <button className='WorksBtn'>Show More</button> */} {/* so not sure how to add the button right now but also not got the content to just dump there yet so meh */}
-
+{/*TODO fix button  */}
     </section>
   )
 }
