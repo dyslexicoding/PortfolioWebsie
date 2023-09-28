@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.1c7e7ac0.css",
+    "main.js": "/PortfolioWebsite/static/js/main.894e2050.js",
+    "static/media/Samuel.png": "/PortfolioWebsite/static/media/Samuel.808982dde2b669570151.png",
+    "static/media/Thesis.png": "/PortfolioWebsite/static/media/Thesis.49ff9fd53d851af4eefe.png",
+    "static/media/portfolio-6.png": "/PortfolioWebsite/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/Birthwell.png": "/PortfolioWebsite/static/media/Birthwell.5b71ea0f3f1918ff5fc7.png",
+    "static/media/portfolio-4.png": "/PortfolioWebsite/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-5.png": "/PortfolioWebsite/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/PortfolioWebsite/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/rubiks.jpeg": "/PortfolioWebsite/static/media/rubiks.bee509b5bf0350c7340b.jpeg",
+    "static/media/data-science.png": "/PortfolioWebsite/static/media/data-science.14457691595652abf10d.png",
+    "static/media/SoftwareEng.png": "/PortfolioWebsite/static/media/SoftwareEng.8da016812409b70c9de0.png",
+    "static/media/electronic.jpg": "/PortfolioWebsite/static/media/electronic.7f8346de811091847369.jpg",
+    "static/media/linkedin.png": "/PortfolioWebsite/static/media/linkedin.2e1accb1bc0865627787.png",
+    "static/media/First Bahrain.png": "/PortfolioWebsite/static/media/First Bahrain.69e5a4d14fffab7ee023.png",
+    "static/media/githubWhite.png": "/PortfolioWebsite/static/media/githubWhite.88c42e191b29a08b8ec6.png",
+    "static/media/dragon.png": "/PortfolioWebsite/static/media/dragon.354f7863298bfd9687c4.png",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.1c7e7ac0.css.map": "/PortfolioWebsite/static/css/main.1c7e7ac0.css.map",
+    "main.894e2050.js.map": "/PortfolioWebsite/static/js/main.894e2050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c7e7ac0.css",
+    "static/js/main.894e2050.js"
+  ]
+}
