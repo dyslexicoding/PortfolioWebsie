@@ -40,7 +40,7 @@ const Contact = () => {
             <a href='https://github.com/dyslexicoding' >
               <img src={Github} alt="Github" className="link" />
             </a>
-            <a href='https://www.linkedin.com/in/s-j-taylor/' >
+            <a href='https://twitter.com/DyslexiCoding' >
               <img src={Twitter} alt="Twitter" className="link" />
             </a>
 
