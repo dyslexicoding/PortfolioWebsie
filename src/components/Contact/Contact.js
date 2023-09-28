@@ -3,7 +3,7 @@ import './Contact.css'
 import FirstBahrain from '../../assets/First Bahrain.png'
 import BirthWell from '../../assets/Birthwell.png'
 import Linkedin from '../../assets/linkedin.png'
-import Github from '../../assets/github.png'
+import Github from '../../assets/githubWhite.png'
 import Twitter from '../../assets/twitter.png'
 
 
@@ -34,11 +34,16 @@ const Contact = () => {
           <button type='submit' value='send' className="SubmitBtn">Submit</button>
 
           <div className="links">
+            <a href='https://www.linkedin.com/in/s-j-taylor/' >
+              <img src={Linkedin} alt="Linkedin" className="link" />
+            </a>
+            <a href='https://github.com/dyslexicoding' >
+              <img src={Github} alt="Github" className="link" />
+            </a>
+            <a href='https://www.linkedin.com/in/s-j-taylor/' >
+              <img src={Twitter} alt="Twitter" className="link" />
+            </a>
 
-            <img src={Linkedin} alt="Linkedin" className="links" />
-            <img src={Github} alt="Github" className="links" />
-            <img src={Twitter} alt="Twitter" className="links" />
-            
           </div>
 
 
